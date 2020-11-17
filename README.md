@@ -5,7 +5,8 @@ Cloning Airbnb with Python, Django, Tailwind and more...
 ・ Run server
 1. pipenv --three
 2. pipenv shell
-3. python manage.py runserver
+3. pipenv install
+4. python3 manage.py runserver
 
 ・ Create application
 1. django-admin startapp core
