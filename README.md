@@ -17,3 +17,6 @@ Cloning Airbnb with Python, Django, Tailwind and more...
 1. python3 manage.py makemigrations
 2. python3 manage.py migrate
 3. python3 manage.py createsuperuser
+
+python3 manage.py shell
+from users.models import User
